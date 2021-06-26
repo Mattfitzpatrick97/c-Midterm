@@ -10,8 +10,9 @@
         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30">
             ABC Bookstore Info. System<LineBreak/>Devleoped By:<LineBreak/>
             Matthew Fitzpatrick<LineBreak/>fitzpama-991524179</TextBlock>
-        <Button Content="Functionalities" Click="Functionalities"></Button>
-        <Button Content="Quit" Click="Quit"></Button>
+        <Button x:Name="Functionalities" Content="Functionalities"></Button>
+        <Button x:Name="Quit" Content="Quit"></Button>
+
     </StackPanel>
 
 

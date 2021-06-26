@@ -1,0 +1,7 @@
+C:\Users\Matt\Desktop\C#\Matthew-991524179-Midterm\Matthew-991524179-Midterm\obj\Debug\netcoreapp3.1\Matthew-991524179-Midterm.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\C#\Matthew-991524179-Midterm\Matthew-991524179-Midterm\obj\Debug\netcoreapp3.1\Functionalities.g.cs
+C:\Users\Matt\Desktop\C#\Matthew-991524179-Midterm\Matthew-991524179-Midterm\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Matt\Desktop\C#\Matthew-991524179-Midterm\Matthew-991524179-Midterm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Matt\Desktop\C#\Matthew-991524179-Midterm\Matthew-991524179-Midterm\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Matt\Desktop\C#\Matthew-991524179-Midterm\Matthew-991524179-Midterm\obj\Debug\netcoreapp3.1\Matthew-991524179-Midterm_MarkupCompile.cache
+C:\Users\Matt\Desktop\C#\Matthew-991524179-Midterm\Matthew-991524179-Midterm\obj\Debug\netcoreapp3.1\Matthew-991524179-Midterm_MarkupCompile.lref
