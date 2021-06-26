@@ -1,0 +1,19 @@
+﻿<Window x:Class="Matthew_991524179_Midterm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Matthew_991524179_Midterm"
+        mc:Ignorable="d"
+        Title="ABC Bookstore Matthew" Height="450" Width="800">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30">
+            ABC Bookstore Info. System<LineBreak/>Devleoped By:<LineBreak/>
+            Matthew Fitzpatrick<LineBreak/>fitzpama-991524179</TextBlock>
+        <Button Content="Functionalities" Click="Functionalities"></Button>
+        <Button Content="Quit" Click="Quit"></Button>
+    </StackPanel>
+
+
+
+</Window>
